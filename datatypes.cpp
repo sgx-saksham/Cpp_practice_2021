@@ -11,12 +11,5 @@ int main()
     cout << "The Value of float is " << floating << endl;
     // String type
     string sentence = "this is a datatype";
-    cout << "The string is : "
-         << ""
-            " << sentence << "
-            ""
-         << endl;
-    //
-    int *p;
-    *p = 85;
+    cout << "The string is : " << sentence << endl;
 }
