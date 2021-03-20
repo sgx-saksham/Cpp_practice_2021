@@ -68,7 +68,7 @@ int main()
     dog1.sleep();
     dog1.setColor("black");
 
-    // Calling member of the derived class
+    // Calling member of the derived 
     dog1.bark();
     dog1.setType("mammal");
 
